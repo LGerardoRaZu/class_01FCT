@@ -1,0 +1,71 @@
+"Catalogo de sismos - Servicio Sismologico Nacional (SSN) | UNAM - Mexico. DOI: 10.21766/SSNMX/EC/MX"
+"Informacion sujeta a cambios. Archivo generado el 2022-01-18 a las 01:27:57 (tiempo del centro de Mexico)."
+"Sismicidad del 2021-01-01 al 2021-12-31, todas las magnitudes, todas las profundidades, en Nuevo Leon."
+"Total: 59 eventos."
+Fecha,Hora,Magnitud,Latitud,Longitud,Profundidad,"Referencia de localizacion","Fecha UTC","Hora UTC","Estatus"
+2021-01-03,16:37:03,3.7,25.1167,-100.385,8.0,"41 km al SUROESTE de CD DE ALLENDE, NL",2021-01-03,22:37:03,revisado
+2021-01-03,16:38:11,3.4,25.1433,-100.531,8.0,"49 km al SUROESTE de SANTIAGO, NL",2021-01-03,22:38:11,revisado
+2021-01-12,06:12:45,3.8,25.8415,-99.4935,13.4,"58 km al NORESTE de CADEREYTA JIMENEZ, NL",2021-01-12,12:12:45,revisado
+2021-01-21,19:03:50,3.4,25.18,-99.82,5.0,"1 km al SURESTE de MONTEMORELOS, NL",2021-01-22,01:03:50,revisado
+2021-01-29,21:16:09,3.5,24.5402,-100.309,5.0,"83 km al SUROESTE de LINARES, NL",2021-01-30,03:16:09,revisado
+2021-02-05,13:04:51,3.0,25.8753,-100.351,5.0,"8 km al NOROESTE de CD GRAL ESCOBEDO, NL",2021-02-05,19:04:51,revisado
+2021-02-11,18:11:34,3.5,24.5335,-98.9412,10.0,"73 km al SURESTE de LINARES, NL",2021-02-12,00:11:34,revisado
+2021-02-19,13:27:37,3.2,25.7802,-100.367,5.0,"5 km al SUROESTE de CD GRAL ESCOBEDO, NL",2021-02-19,19:27:37,revisado
+2021-02-19,13:52:49,3.2,25.78,-100.367,5.0,"5 km al SUROESTE de CD GRAL ESCOBEDO, NL",2021-02-19,19:52:49,revisado
+2021-02-23,15:02:17,3.2,26.1665,-99.911,26.4,"35 km al NORESTE de CIENEGA DE FLORES, NL",2021-02-23,21:02:17,revisado
+2021-04-04,16:27:07,2.8,25.2008,-99.3978,5.0,"41 km al NORESTE de LINARES, NL",2021-04-04,21:27:07,revisado
+2021-04-21,01:09:44,3.7,24.4028,-99.6423,5.0,"51 km al SUR de LINARES, NL",2021-04-21,06:09:44,revisado
+2021-04-21,03:05:08,3.6,24.515,-99.0637,5.0,"64 km al SURESTE de LINARES, NL",2021-04-21,08:05:08,revisado
+2021-04-28,21:21:29,4.2,25.1958,-99.7705,5.0,"6 km al ESTE de MONTEMORELOS, NL",2021-04-29,02:21:29,revisado
+2021-05-22,19:56:57,3.6,24.8477,-99.4038,5.0,"17 km al ESTE de LINARES, NL",2021-05-23,00:56:57,revisado
+2021-05-25,10:43:47,3.6,24.4818,-99.0567,10.0,"66 km al SURESTE de LINARES, NL",2021-05-25,15:43:47,revisado
+2021-05-26,20:07:40,3.6,24.3865,-99.27,10.0,"60 km al SURESTE de LINARES, NL",2021-05-27,01:07:40,revisado
+2021-06-03,14:19:30,3.1,26.14,-99.851,5.0,"38 km al NORESTE de CIENEGA DE FLORES, NL",2021-06-03,19:19:30,revisado
+2021-06-26,16:53:55,3.4,24.6828,-100.237,5.0,"69 km al SUROESTE de MONTEMORELOS, NL",2021-06-26,21:53:55,revisado
+2021-06-26,17:38:37,3.1,24.681,-100.261,10.0,"71 km al SUROESTE de CD DE ALLENDE, NL",2021-06-26,22:38:37,revisado
+2021-06-26,17:39:24,3.4,24.681,-100.261,10.0,"71 km al SUROESTE de CD DE ALLENDE, NL",2021-06-26,22:39:24,revisado
+2021-06-27,03:56:45,3.6,24.7875,-100.25,5.0,"60 km al SUROESTE de CD DE ALLENDE, NL",2021-06-27,08:56:45,revisado
+2021-07-02,13:45:48,3.5,26.0098,-99.9662,10.0,"21 km al NORESTE de CIENEGA DE FLORES, NL",2021-07-02,18:45:48,revisado
+2021-07-05,04:08:08,3.6,25.2485,-99.1835,10.0,"58 km al NORESTE de LINARES, NL",2021-07-05,09:08:08,revisado
+2021-07-18,08:41:39,3.3,24.9122,-99.4857,25.8,"10 km al NORESTE de LINARES, NL",2021-07-18,13:41:39,revisado
+2021-08-13,03:27:49,3.5,25.71,-99.76,5.0,"27 km al NORESTE de CADEREYTA JIMENEZ, NL ",2021-08-13,08:27:49,verificado
+2021-08-13,03:30:32,4.2,25.114,-100.414,5.0,"44 km al SUROESTE de Santiago, NL",2021-08-13,08:30:32,verificado
+2021-08-13,13:00:10,3.6,25.182,-100.357,10.0,"34 km al SUROESTE de Santiago, NL",2021-08-13,18:00:10,verificado
+2021-08-14,03:36:18,4.0,25.17,-100.48,5.0,"44 km al SUROESTE de SANTIAGO, NL ",2021-08-14,08:36:18,verificado
+2021-08-14,05:16:32,4.0,25.2,-100.54,5.0,"46 km al SUROESTE de SANTIAGO, NL ",2021-08-14,10:16:32,verificado
+2021-08-14,06:38:31,4.0,25.18,-100.39,6.0,"36 km al SUROESTE de SANTIAGO, NL ",2021-08-14,11:38:31,verificado
+2021-08-27,15:08:12,3.6,26.04,-99.92,5.0,"26 km al NORESTE de CIENEGA DE FLORES, NL ",2021-08-27,20:08:12,verificado
+2021-09-03,12:14:01,3.5,24.8943,-100.188,5.0,"46 km al SUROESTE de CD DE ALLENDE, NL",2021-09-03,17:14:01,revisado
+2021-09-03,12:14:03,3.7,24.7558,-100.214,5.0,"62 km al SUROESTE de CD DE ALLENDE, NL",2021-09-03,17:14:03,revisado
+2021-09-03,15:46:14,3.6,26.0302,-99.886,5.0,"29 km al NORESTE de CIENEGA DE FLORES, NL",2021-09-03,20:46:14,revisado
+2021-09-04,12:50:18,3.9,25.8443,-100.355,5.0,"5 km al NOROESTE de CD GRAL ESCOBEDO, NL",2021-09-04,17:50:18,revisado
+2021-09-13,10:41:05,3.4,26.0793,-100.47,6.8,"12 km al NORTE de HIDALGO, NL",2021-09-13,15:41:05,revisado
+2021-09-13,11:36:24,3.5,25.9943,-100.677,5.0,"22 km al NOROESTE de GARCIA, NL",2021-09-13,16:36:24,revisado
+2021-09-13,11:36:41,3.7,26.0148,-100.642,5.0,"20 km al OESTE de HIDALGO, NL",2021-09-13,16:36:41,revisado
+2021-09-14,12:56:15,3.8,25.385,-100.551,5.0,"33 km al SUROESTE de CD STA CATARINA, NL",2021-09-14,17:56:15,revisado
+2021-09-18,12:24:06,3.9,26.02,-100.511,12.0,"8 km al NOROESTE de HIDALGO, NL",2021-09-18,17:24:06,revisado
+2021-09-28,16:01:01,3.6,25.7337,-100.469,5.0,"7 km al NORTE de CD STA CATARINA, NL",2021-09-28,21:01:01,revisado
+2021-10-04,16:50:05,3.9,24.6,-100.37,5.0,"83 km al SUROESTE de CD DE ALLENDE, NL ",2021-10-04,21:50:05,verificado
+2021-11-02,15:44:09,3.7,26.01,-99.88,5.0,"30 km al ESTE de CIENEGA DE FLORES, NL ",2021-11-02,21:44:09,verificado
+2021-11-05,15:54:49,4.0,26.01,-99.88,5.0,"29 km al ESTE de CIENEGA DE FLORES, NL ",2021-11-05,21:54:49,verificado
+2021-11-06,05:18:57,3.9,25.05,-100.37,5.0,"43 km al SUROESTE de CD DE ALLENDE, NL ",2021-11-06,11:18:57,verificado
+2021-11-06,05:23:24,3.9,24.98,-100.47,5.0,"56 km al SUROESTE de CD DE ALLENDE, NL ",2021-11-06,11:23:24,verificado
+2021-11-07,02:28:01,3.8,25.06,-100.35,5.0,"41 km al SUROESTE de CD DE ALLENDE, NL ",2021-11-07,08:28:01,verificado
+2021-11-10,03:51:59,4.2,25.09,-100.42,5.0,"45 km al SUROESTE de CD DE ALLENDE, NL ",2021-11-10,09:51:59,verificado
+2021-11-10,03:56:22,4.0,25.08,-100.36,5.0,"41 km al SUROESTE de CD DE ALLENDE, NL ",2021-11-10,09:56:22,verificado
+2021-11-10,04:05:12,3.8,25.07,-100.37,5.0,"42 km al SUROESTE de CD DE ALLENDE, NL ",2021-11-10,10:05:12,verificado
+2021-11-10,04:11:47,3.7,25.09,-100.33,5.0,"37 km al SUROESTE de CD DE ALLENDE, NL ",2021-11-10,10:11:47,verificado
+2021-11-10,04:15:03,4.1,25.09,-100.42,5.0,"45 km al SUROESTE de CD DE ALLENDE, NL ",2021-11-10,10:15:03,verificado
+2021-11-16,18:17:44,3.9,25.99,-99.92,10.0,"25 km al ESTE de CIENEGA DE FLORES, NL ",2021-11-17,00:17:44,verificado
+2021-11-19,18:54:44,3.7,25.74,-99.64,5.0,"40 km al NORESTE de CADEREYTA JIMENEZ, NL ",2021-11-20,00:54:44,verificado
+2021-11-19,19:18:49,3.7,25.75,-99.65,5.0,"39 km al NORESTE de CADEREYTA JIMENEZ, NL ",2021-11-20,01:18:49,verificado
+2021-11-25,14:53:57,3.6,26.01,-99.89,5.0,"28 km al ESTE de CIENEGA DE FLORES, NL ",2021-11-25,20:53:57,verificado
+2021-11-26,08:35:42,3.6,25.12,-100.27,5.0,"31 km al SUROESTE de CD DE ALLENDE, NL ",2021-11-26,14:35:42,verificado
+2021-12-21,18:53:44,3.7,26.01,-99.93,5.0,"24 km al ESTE de CIENEGA DE FLORES, NL ",2021-12-22,00:53:44,verificado
+"Fecha y hora local en tiempo del centro de Mexico. Coordenadas geograficas (latitud y longitud) del epicentro en grados decimales. Profundidad en kilometros."
+"La localizacion es solo una referencia a una localidad importante en cuanto a numero de habitantes y cercana al epicentro."
+"Los registros con estatus verificado son los calculados y publicados de manera oportuna por al menos un analista de sismogramas."
+"Los registros obtienen estatus revisado cuando se realiza un analisis, de ser posible, con mas y mejores datos para el calculo de parametros y cuyo tiempo de publicacion es variable."
+"Esta informacion puede ser reproducida con fines no lucrativos siempre y cuando se mencione como fuente al Servicio Sismologico Nacional. De otra forma, requiere permiso previo por escrito de la institucion."
+"Consulta nuestro Aviso Legal y Terminos de Uso en: www.ssn.unam.mx/aviso-legal"
+"www.ssn.unam.mx | contacto@sismologico.unam.mx | 5622 2222 ext. 38706 (reportes de sismicidad), 38700 y 38701 (area administrativa)."
