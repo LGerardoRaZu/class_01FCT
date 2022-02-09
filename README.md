@@ -9,7 +9,7 @@ y [GMT.jl](https://www.generic-mapping-tools.org/GMT.jl/)
 
 Ejecútelo en línea haciendo clic en una de las insignias que aparecen a continuación:
 
--[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LGerardoRaZu/class_01FCT.git/main?labpath=main-page)
+-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LGerardoRaZu/class_01FCT/main?labpath=main-page)
 
 ## Paquetes instalados
 
