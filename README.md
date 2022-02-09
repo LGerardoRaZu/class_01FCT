@@ -9,7 +9,7 @@ y [GMT.jl](https://www.generic-mapping-tools.org/GMT.jl/)
 
 Ejecútelo en línea haciendo clic en una de las insignias que aparecen a continuación:
 
-- [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/GenericMappingTools/try-gmt/master?urlpath=lab/tree/landing-page.ipynb) hosted at https://binder.pangeo.io).
+-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LGerardoRaZu/class_01FCT.git/main?labpath=main-page)
 
 ## Paquetes instalados
 
